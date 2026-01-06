@@ -4,7 +4,6 @@
 Permainan singkat untuk membangun suasana, perhatian, dan kerja sama kelompok.
 
 ## Menceritakan Kembali
-
 Ulangi langkah-langkah berikut sampai kelompok merasa puas dengan alur ceritanya 
 (bukan hafalan, dan pemahaman pada tahap ini boleh masih sebagian):
 
@@ -36,3 +35,6 @@ Ulangi langkah-langkah berikut sampai kelompok merasa puas dengan alur ceritanya
 
 ### Apa?
 - Masing-masing secara pribadi: Apa makna terselubung yang terpenting dalam teks ini untuk Anda?
+
+## Doa
+Berdoa bersama.
