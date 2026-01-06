@@ -22,19 +22,19 @@ Ulangi langkah-langkah berikut sampai kelompok merasa puas dengan alur ceritanya
     - Ekspresi emosi (terutama dalam bagian dialog)
 
 ## Memahami Lebih Dalam
-???BELUM SELESAI???
+
 ### Apa?
-- Konteks
+- Konteks??
 - ??
 
-#### Mengapa? (Mereka)
-- Mengapa teks ini disampaikan kepada pendengar pertama?
+### Mengapa? (Mereka)
+- ?
 
-#### Mengapa? (Kita)
-- Mengapa teks ini masih relevan untuk kita hari ini?
+### Mengapa? (Kita)
+- ?
 
 ### Apa?
-- Masing-masing secara pribadi: Apa makna terselubung yang terpenting dalam teks ini untuk Anda?
+- Apa pesan terselubung dalam teks ini yang terpenting untuk Anda?
 
 ## Doa
 Berdoa bersama.
