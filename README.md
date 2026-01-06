@@ -4,7 +4,7 @@ Materi ini disediakan sebagai bahan untuk pembelajaran dan diskusi kitab suci. A
 
 ## Studi Tersedia
 
-- [2 Samuil 12:1–6](2-samuil/pasal-12-ayat-1-6.md)
+[Kitab Taurat](kitab-taurat)
 
 ## Lisensi
 
