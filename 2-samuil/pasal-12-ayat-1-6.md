@@ -24,14 +24,21 @@ Ulangi langkah-langkah berikut sampai kelompok merasa puas dengan alur ceritanya
 ## Memahami Lebih Dalam
 
 ### Apa?
-- Konteks??
-- ??
+- Konteks:
+  - Daud adalah raja Israel kuno yang seharusnya bertindak adil.
+  - Dalam pasal 11, Daud berselingkuh dengan istri salah satu prajuritnya.
+  - Daud kemudian memerintahkan agar prajurit tersebut terbunuh.
+  - Setelah reaksi Daud pada perumpamaan Natan, Natan kemudian menjelaskan bahwa Daud seperti orang kaya dalam perumpamaannya.
+  - Karena dosanya, Daud akan menerima hukuman dari Tuhan.
+- Ringkasan: (Cerita sudah diceritakan kembali.)
 
 ### Mengapa? (Mereka)
-- ?
+- Mengapa Tuhan mengutus Natan kepada Daud?
+<!-- Kejahatan Daud terungkap dan dihukum secara publik -->
 
 ### Mengapa? (Kita)
-- ?
+- Dalam cerita ini, kita seperti siapa?
+<!-- Daud? Orang biasa di Israil kuno? Natan? -->
 
 ### Apa?
 - Apa pesan terselubung dalam teks ini yang terpenting untuk Anda?
