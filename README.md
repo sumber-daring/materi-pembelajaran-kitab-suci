@@ -4,7 +4,13 @@ Materi ini disediakan sebagai bahan untuk pembelajaran dan diskusi kitab suci. A
 
 ## Studi Tersedia
 
-[Kitab Taurat](kitab-taurat)
+### Kitab Taurat
+
+[2 Samuil 12:1-6](kitab-taurat/2-samuil/pasal-12-ayat-1-6.md)
+
+### Kitab Zabur
+
+### Kitab Injil
 
 ## Lisensi
 
