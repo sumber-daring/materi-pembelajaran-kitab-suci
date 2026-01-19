@@ -1,6 +1,6 @@
 # Panduan Studi Kitab Suci
 
-Materi ini disediakan sebagai bahan untuk pembelajaran dan diskusi kitab suci. Anda bebas untuk mengunduh, mengubah, dan menyebarkan materi ini untuk tujuan non-komersial atau komersial sesuai kebutuhan.
+Materi ini disediakan sebagai bahan untuk pembelajaran dan diskusi kitab suci.
 
 ## Studi Tersedia
 
