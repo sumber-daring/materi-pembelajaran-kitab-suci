@@ -30,7 +30,7 @@ Ulangi langkah-langkah berikut sampai kelompok merasa puas dengan alur ceritanya
   - Daud kemudian memerintahkan agar prajurit tersebut terbunuh.
   - Setelah reaksi Daud pada perumpamaan Natan, Natan kemudian menjelaskan bahwa Daud seperti orang kaya dalam perumpamaannya.
   - Karena dosanya, Daud akan menerima hukuman dari Tuhan.
-- Ringkasan: (Cerita sudah diceritakan kembali.)
+- Ringkasan: ??
 
 ### Mengapa? (Mereka)
 - Mengapa Tuhan mengutus Natan kepada Daud?
