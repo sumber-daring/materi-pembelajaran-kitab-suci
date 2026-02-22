@@ -32,11 +32,11 @@ Ulangi langkah-langkah berikut sampai kelompok merasa puas dengan alur ceritanya
   - Karena dosanya, Daud akan menerima hukuman dari Tuhan.
 - Ringkasan: ??
 
-### Mengapa? (Mereka)
+### Mengapa? (untuk Pendengar Asli)
 - Mengapa Tuhan mengutus Natan kepada Daud?
 <!-- Kejahatan Daud terungkap dan dihukum secara publik -->
 
-### Mengapa? (Kita)
+### Mengapa? (untuk Kita)
 - Dalam cerita ini, kita seperti siapa?
 <!-- Daud? Orang biasa di Israil kuno? Natan? -->
 
