@@ -34,7 +34,7 @@ Ulangi langkah-langkah berikut sampai kelompok merasa puas dengan alur ceritanya
 
 ### Mengapa? (untuk Pendengar Asli)
 - Mengapa Tuhan mengutus Natan kepada Daud?
-<!-- Kejahatan Daud terungkap dan dihukum secara publik -->
+<!-- Kejahatan Daud terungkap dan dihukum Allah secara publik -->
 
 ### Mengapa? (untuk Kita)
 - Dalam cerita ini, kita seperti siapa?
@@ -42,6 +42,7 @@ Ulangi langkah-langkah berikut sampai kelompok merasa puas dengan alur ceritanya
 
 ### Apa?
 - Apa pesan terselubung dalam teks ini yang terpenting untuk Anda?
+- <!-- Hanya Isa yang tidak pernah berdosa dan yang layak menjadi hakim di penghakiman -->
 
 ## Doa
 Berdoa bersama.
