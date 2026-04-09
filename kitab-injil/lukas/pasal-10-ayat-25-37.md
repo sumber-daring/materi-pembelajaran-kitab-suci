@@ -26,19 +26,21 @@ Ulangi langkah-langkah berikut sampai kelompok merasa puas dengan alur ceritanya
 ### Apa?
 - Konteks:
   - Peyelamatan itu pekerjaan Allah, bukan pekerjaan manusia (10:17-24; 38-42)
+  - Ada yang menolak Isa (10:16)
+  - Pada waktu itu bani Israil memandang rendah orang Samaria 
 - Ringkasan: ??
 
 ### Mengapa? (untuk Pendengar Pertama)
-- Mengapa Tuhan mengutus Natan kepada Daud?
-<!-- Kejahatan Daud terungkap dan dihukum Allah secara publik -->
+- Mengapa Isa membuat cerita tentang perbuatan baik seorang Samaria?
+<!-- Ahli kitab suci itu, sebagai orang Israil, pasti tidak merasa terhubung dengan tokoh yang berasal dari Samaria. -->
 
 ### Mengapa? (untuk Kita)
 - Dalam cerita ini, kita seperti siapa?
-<!-- Daud? Orang biasa di Israil kuno? Natan? -->
+<!-- Kita seharusnya merasa terhubung dengan tokoh yang butuh bantuan. -->
 
 ### Apa?
 - Apa pesan terselubung dalam teks ini yang terpenting untuk Anda?
-- <!-- Hanya Isa yang tidak pernah berdosa dan yang layak menjadi hakim di penghakiman -->
+- <!-- Kita harus fokus pada pekerjaan Isa untuk kita, dan sebagai hawariyyun Isa, harus menunjukkan belas kasihan kepada semua orang. -->
 
 ## Doa
 Berdoa bersama.
