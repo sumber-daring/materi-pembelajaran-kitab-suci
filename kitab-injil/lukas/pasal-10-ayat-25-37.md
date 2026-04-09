@@ -40,7 +40,7 @@ Ulangi langkah-langkah berikut sampai kelompok merasa puas dengan alur ceritanya
 
 ### Apa?
 - Apa pesan terselubung dalam teks ini yang terpenting untuk Anda?
-- <!-- Kita harus fokus pada pekerjaan Isa untuk kita, dan sebagai hawariyyun Isa, harus menunjukkan belas kasihan kepada semua orang. -->
+<!-- Kita harus fokus pada pekerjaan Isa untuk kita, dan sebagai hawariyyun Isa, harus menunjukkan belas kasihan kepada semua orang. -->
 
 ## Doa
 Berdoa bersama.
