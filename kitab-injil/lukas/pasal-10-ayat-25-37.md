@@ -26,8 +26,11 @@ Ulangi langkah-langkah berikut sampai kelompok merasa puas dengan alur ceritanya
 ### Apa?
 - Konteks:
   - Peyelamatan itu pekerjaan Allah, bukan pekerjaan manusia (10:17-24; 38-42)
+  - Isa bukan seorang ahli kitab suci yang resmi
   - Ada yang menolak Isa (10:16)
-  - Pada waktu itu bani Israil memandang rendah orang Samaria 
+  - Pada waktu itu bani Israil:
+    - memandang rendah orang Samaria
+    - mungkin merasa dilarang menerima bantuan dari orang yang bukan bani Israil
 - Ringkasan: ??
 
 ### Mengapa? (untuk Pendengar Pertama)
