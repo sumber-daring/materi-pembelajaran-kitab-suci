@@ -12,6 +12,8 @@ Materi ini disediakan sebagai bahan untuk pembelajaran dan diskusi kitab suci.
 
 ### Kitab Injil
 
+[Lukas 10:25-37](kitab-injil/lulkas/pasal-10-ayat-25-37.md)
+
 ## Lisensi
 
 Karya ini didedikasikan ke dalam domain publik di bawah **Creative Commons Zero 1.0 Universal License (CC0 1.0)**.
