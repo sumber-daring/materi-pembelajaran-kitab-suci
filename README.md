@@ -12,7 +12,7 @@ Materi ini disediakan sebagai bahan untuk pembelajaran dan diskusi kitab suci.
 
 ### Kitab Injil
 
-[Lukas 10:25-37](kitab-injil/lulkas/pasal-10-ayat-25-37.md)
+[Lukas 10:25-37](kitab-injil/lukas/pasal-10-ayat-25-37.md)
 
 ## Lisensi
 
