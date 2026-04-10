@@ -31,6 +31,9 @@ Ulangi langkah-langkah berikut sampai kelompok merasa puas dengan alur ceritanya
   - Pada waktu itu bani Israil:
     - memandang rendah orang Samaria
     - mungkin merasa dilarang menerima bantuan dari orang yang bukan bani Israil
+  - imam = pemimpin ibadah, penyembelihan
+  - Lewi = kaum pelayan yang membantu imam
+  - "setengah mati" -> terlihat najis
 - Ringkasan: ??
 
 ### Mengapa? (untuk Pendengar Pertama)
